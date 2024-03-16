@@ -1,12 +1,11 @@
-### Hi there 👋
+### About me
 
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning: Backend development with Java
-- 👯 I’m looking to collaborate on:
-- 🤔 I’m looking for help with:
-- 💬 Ask me about:
+- ⚡  About me: Java backend developer
+- 📚 Education: 
+  1. Moscow Power Engineering Institute (2019 - 2024)
+  2. School 21 (2023 - ∞)
+  3. Tinkoff Backend Academy (2023 - ∞)
 - 📫 How to reach me: [Telegram](https://t.me/ivanuil) or [Mail](mailto:ivo-pronin@yandex.ru)
-- ⚡ Fun fact:
 
 ### Stack
 
