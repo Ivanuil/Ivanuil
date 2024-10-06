@@ -4,8 +4,9 @@
 - 📚 Education:
   1. Moscow Institute of Physics and Technology (2024 - 2026)
   2. Moscow Power Engineering Institute (2019 - 2024)
-  3. School 21 (2023 - ∞)
-  4. Tinkoff Backend Academy (2023 - ∞)
+  3. Moscow Institute of Physics and Technology (2024 - 2026)
+  4. School 21 (2023 - ∞)
+  5. Tinkoff Backend Academy (2023 - 2024)
 - 📫 How to reach me: [Telegram](https://t.me/ivanuil) or [Mail](mailto:ivo-pronin@yandex.ru)
 
 ### Stack
